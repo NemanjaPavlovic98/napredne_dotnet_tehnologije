@@ -1,0 +1,70 @@
+﻿<Properties StartupConfiguration="{90AA1B59-1332-4306-8CAE-90FA07BA832A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MoviesAPI/ApplicationDbContext.cs">
+    <Files>
+      <File FileName="MoviesAPI/Controllers/AccountsController.cs" Line="1" Column="1" />
+      <File FileName="MoviesAPI/Controllers/ActorsController.cs" Line="109" Column="1" />
+      <File FileName="MoviesAPI/Controllers/GenresController.cs" Line="10" Column="34" />
+      <File FileName="MoviesAPI/Controllers/MoviesController.cs" Line="1" Column="1" />
+      <File FileName="MoviesAPI/Controllers/MovieTheatersController.cs" Line="1" Column="1" />
+      <File FileName="MoviesAPI/Controllers/RatingsController.cs" Line="1" Column="1" />
+      <File FileName="MoviesAPI/DTOs/ActorCreationDTO.cs" Line="13" Column="28" />
+      <File FileName="MoviesAPI/DTOs/ActorDTO.cs" Line="1" Column="1" />
+      <File FileName="MoviesAPI/DTOs/ActorsMovieDTO.cs" Line="1" Column="1" />
+      <File FileName="MoviesAPI/DTOs/AuthenticationResponse.cs" Line="1" Column="1" />
+      <File FileName="MoviesAPI/DTOs/FilterMoviesDTO.cs" Line="1" Column="1" />
+      <File FileName="MoviesAPI/DTOs/GenreCreationDTO.cs" Line="1" Column="1" />
+      <File FileName="MoviesAPI/DTOs/GenreDTO.cs" Line="1" Column="1" />
+      <File FileName="MoviesAPI/DTOs/HomeDTO.cs" Line="1" Column="1" />
+      <File FileName="MoviesAPI/DTOs/MovieDTO.cs" Line="1" Column="1" />
+      <File FileName="MoviesAPI/DTOs/MovieCreationDTO.cs" Line="1" Column="1" />
+      <File FileName="MoviesAPI/DTOs/MoviePostGetDTO.cs" Line="1" Column="1" />
+      <File FileName="MoviesAPI/DTOs/MoviePutGetDTO.cs" Line="1" Column="1" />
+      <File FileName="MoviesAPI/DTOs/MoviesActorsCreationDTO.cs" Line="1" Column="1" />
+      <File FileName="MoviesAPI/DTOs/MovieTheaterCreationDTO.cs" Line="1" Column="1" />
+      <File FileName="MoviesAPI/DTOs/MovieTheaterDTO.cs" Line="1" Column="1" />
+      <File FileName="MoviesAPI/DTOs/PaginationDTO.cs" Line="1" Column="1" />
+      <File FileName="MoviesAPI/DTOs/RatingDTO.cs" Line="1" Column="1" />
+      <File FileName="MoviesAPI/DTOs/UserCredentials.cs" Line="1" Column="1" />
+      <File FileName="MoviesAPI/DTOs/UserDTO.cs" Line="1" Column="1" />
+      <File FileName="MoviesAPI/Entities/Actor.cs" Line="13" Column="28" />
+      <File FileName="MoviesAPI/Entities/Genre.cs" Line="13" Column="27" />
+      <File FileName="MoviesAPI/Entities/Movie.cs" Line="1" Column="1" />
+      <File FileName="MoviesAPI/Entities/MoviesActors.cs" Line="1" Column="1" />
+      <File FileName="MoviesAPI/Entities/MoviesGenres.cs" Line="1" Column="1" />
+      <File FileName="MoviesAPI/Entities/MovieTheater.cs" Line="1" Column="1" />
+      <File FileName="MoviesAPI/Entities/MovieTheatersMovies.cs" Line="1" Column="1" />
+      <File FileName="MoviesAPI/Entities/Rating.cs" Line="1" Column="1" />
+      <File FileName="MoviesAPI/Helpers/AutoMapperProfiles.cs" Line="1" Column="1" />
+      <File FileName="MoviesAPI/Migrations/20210109015517_Initial.cs" Line="1" Column="1" />
+      <File FileName="MoviesAPI/Migrations/20210110193609_Actors.cs" Line="1" Column="1" />
+      <File FileName="MoviesAPI/Migrations/20210114015354_MovieTheaters.cs" Line="1" Column="1" />
+      <File FileName="MoviesAPI/Migrations/20210115011946_MovieAndFriends.cs" Line="1" Column="1" />
+      <File FileName="MoviesAPI/Validations/FirstLetterUppercaseAttribute.cs" Line="1" Column="1" />
+      <File FileName="MoviesAPI/ApplicationDbContext.cs" Line="1" Column="1" />
+      <File FileName="MoviesAPI/Startup.cs" Line="71" Column="16" />
+      <File FileName="MoviesAPI/Program.cs" Line="1" Column="1" />
+      <File FileName="MoviesAPI/appsettings.json" Line="1" Column="1" />
+      <File FileName="MoviesAPI/appsettings.Development.json" Line="13" Column="4" />
+      <File FileName="MoviesAPI/Migrations/ApplicationDbContextModelSnapshot.cs" Line="1" Column="1" />
+      <File FileName="MoviesAPI/Migrations/Initial.Designer.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MoviesAPI" expanded="True">
+            <Node name="MoviesAPI" expanded="True">
+              <Node name="ApplicationDbContext.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MoviesAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
